@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, Nodejs, Mongodb**
 
-- 📫 How to reach me **timalsinarajkumar926@gmail.com**
+- 📫 How to reach me **contact@timalsinarajkumar.com.np**
 
 - ⚡ Fun fact **My first program was a calculator built in Javascript when I was 16.**
 
