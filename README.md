@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Kumar%20Timalsina&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20and%20Backend%20Developer%20from%20Nepal&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Raj%20Kumar%20Timalsina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20%7C%20Backend%20Developer%20from%20Nepal&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Flutter+Developer;Backend+Developer+with+Node.js;Building+Scalable+Mobile+Apps+and+APIs;" />
 
 </div>
 
 <br/>
 
+
+
 <div align="center">
 
-<a href="https://timalsinarajkumar.com.np"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-timalsinarajkumar.com.np-0f3460?style=for-the-badge&labelColor=0a0a0f" /></a>&nbsp;
+<a href="https://timalsinarajkumar.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/irajkumarr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:rajk.timalsina05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://x.com/irajkumarr_"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -72,10 +78,17 @@ class RajKumarTimalsina {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-**🏗️ Architecture & Practices**
+**Architecture & Practices**
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f3460?style=flat-square&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
+<div>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge" height="22"/>
+<img src="https://img.shields.io/badge/REST_API_Design-0F766E?style=for-the-badge" height="22"/>
+<img src="https://img.shields.io/badge/TDD-7C3AED?style=for-the-badge" height="22"/>
+<img src="https://img.shields.io/badge/DDD-DC2626?style=for-the-badge" height="22"/>
+<img src="https://img.shields.io/badge/Scalable_Systems-1D4ED8?style=for-the-badge" height="22"/>
+
+</div>
 
 ---
 
@@ -97,8 +110,8 @@ class RajKumarTimalsina {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 *"Clean code, real impact."*
 
