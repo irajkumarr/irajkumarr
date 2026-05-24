@@ -8,16 +8,16 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-timalsinarajkumar.com.np-0f0c29?style=for-the-badge&logoColor=white)](https://timalsinarajkumar.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajkumarr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajk.timalsina05@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/irajkumarr_)
+<a href="https://timalsinarajkumar.com.np"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-timalsinarajkumar.com.np-0f3460?style=for-the-badge&labelColor=0a0a0f" /></a>&nbsp;
+<a href="https://linkedin.com/in/irajkumarr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:rajk.timalsina05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/irajkumarr_"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
 ```dart
 class RajKumarTimalsina {
@@ -25,12 +25,11 @@ class RajKumarTimalsina {
   final String location = "Nepal 🇳🇵";
   final String degree   = "B.Sc. CSIT — Tribhuvan University (2022–Present)";
 
-  final List<String> currentFocus = [
-    "Advanced Node.js & system design",
-    "Clean architecture at scale",
-  ];
-
-  final List<String> askMeAbout = ["Flutter", "Node.js", "REST APIs", "Clean Architecture"];
+   final Map<String, List<String>> expertise = {
+    "Mobile"  : ["Flutter", "Dart", "Cross-Platform"],
+    "Backend" : ["Node.js", "Express.js", "NestJS", "REST APIs"],
+    "Design"  : ["Clean Architecture", "TDD", "DDD"],
+  };
 
 }
 ```
@@ -58,7 +57,6 @@ class RajKumarTimalsina {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **State Management**
 
@@ -73,6 +71,11 @@ class RajKumarTimalsina {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+**🏗️ Architecture & Practices**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f3460?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
 
 ---
 
